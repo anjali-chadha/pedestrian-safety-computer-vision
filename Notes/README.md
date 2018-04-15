@@ -21,3 +21,5 @@
 3. More drawbacks of Infrared videos
     * In winter, pedestrians often wear heavy clothes, so only their heads can be seen in infrared videos.It is difficult to recognize a pedestrian only by the shape of his head
     * While in summer, the temperature of pedestrians’ body is close to the environment temperature. It is difficult to separate them from the background
+
+4. **Canny Edge Detector**
