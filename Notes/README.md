@@ -10,11 +10,9 @@
     * Radars
     
 2. Conventional two-step approach 
-    * Selection step:
-      
-      Objects are separated with an adaptive threshold image segmentation algorithm
-      
-      Methods Like
+    * Selection step 
+      <br />Objects are separated with an adaptive threshold image segmentation algorithm
+      <br /> Methods Like
         * Image Segmentation
         * Stereovision
         * Edge Extraction
