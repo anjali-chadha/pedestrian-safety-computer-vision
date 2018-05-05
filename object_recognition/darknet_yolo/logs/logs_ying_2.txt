@@ -1,0 +1,836 @@
+Demo
+
+ seen 64 
+video file: ../../videos/uber_ying_2.mp4
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:0
+
+FPS:0.0
+Objects:
+
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:1
+
+FPS:0.0
+Objects:
+
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:2
+
+FPS:0.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:3
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 1, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:4
+
+FPS:11.1
+Objects:
+
+car: 26%
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:5
+
+FPS:10.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:6
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:7
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:8
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:9
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:10
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:11
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:12
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:13
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:14
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:15
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:16
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:17
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:18
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:19
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:20
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:21
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:22
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:23
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:24
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:25
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:26
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:27
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:28
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:29
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:30
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:31
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:32
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:33
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:34
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:35
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:36
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:37
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:38
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:39
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:40
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 1, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:41
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:42
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:43
+
+FPS:11.1
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:44
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:45
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:46
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:47
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:48
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:49
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:50
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:51
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:52
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:53
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:54
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:55
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:56
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:57
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:58
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:59
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:60
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:61
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:62
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:63
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:64
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:65
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:66
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:67
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:68
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:69
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:70
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 1, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:71
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:72
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:73
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:74
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:75
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:76
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:77
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:78
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:79
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 7, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:80
+
+FPS:10.8
+Objects:
+
+bicycle: 73%
+car: 26%
+
+ cvWriteFrame 
+ total = 9, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:81
+
+FPS:10.9
+Objects:
+
+bicycle: 97%
+person: 31%
+person: 32%
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:82
+
+FPS:10.9
+Objects:
+
+bicycle: 98%
+person: 26%
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:83
+
+FPS:10.9
+Objects:
+
+bicycle: 97%
+person: 28%
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:84
+
+FPS:10.9
+Objects:
+
+bicycle: 98%
+person: 90%
+
+ cvWriteFrame 
+ total = 7, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:85
+
+FPS:10.9
+Objects:
+
+bicycle: 98%
+person: 57%
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:86
+
+FPS:10.8
+Objects:
+
+bicycle: 98%
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:87
+
+FPS:10.9
+Objects:
+
+bicycle: 90%
+
+ cvWriteFrame 
+ total = 7, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:88
+
+FPS:10.9
+Objects:
+
+bicycle: 91%
+
+ cvWriteFrame 
+ total = 8, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:89
+
+FPS:10.9
+Objects:
+
+bicycle: 93%
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:90
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 5, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:91
+
+FPS:10.9
+Objects:
+
+person: 76%
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:92
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:93
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:94
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:95
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:96
+
+FPS:10.9
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:97
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:98
+
+FPS:11.0
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:99
+
+FPS:10.8
+Objects:
+
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:100
+
+FPS:10.9
+Objects:
+
+Stream closed.
+
+ cvWriteFrame 
+ total = 0, classes = 80, thresh = 0.450000 
+[2J[1;1HFrame:101
+
+FPS:10.9
+Objects:
+
+Time taken:11.98input video stream closed. 
+output_video_writer closed. 
