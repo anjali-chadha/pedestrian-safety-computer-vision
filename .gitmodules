@@ -1,0 +1,3 @@
+[submodule "object_recognition/darknet_yolo"]
+	path = object_recognition/darknet_yolo
+	url = https://github.com/AlexeyAB/darknet.git
