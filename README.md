@@ -1,4 +1,5 @@
-# Enabling Pedestrian Safety through Computer Vision techniques. A case study of the 2018 Uber autonomous car crash.
+# Enabling Pedestrian Safety through Computer Vision techniques. 
+## A case study of the 2018 Uber autonomous car crash.
 
 ## Introduction
 
