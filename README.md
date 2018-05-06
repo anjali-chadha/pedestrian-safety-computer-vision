@@ -10,21 +10,21 @@ For this work, we use the dash-cam footage released by Uber Inc. from it's self 
 
 The repository structure is as follows - 
 
-* Code
-  * class_files: Dictionary of class mappings
-  * image_classification: Implementation of various image classification neural networks
-  * image_processing: Implementation of various image enhancement techniques
-  * object_recognition: Implemenation of various Object Recognition techniques - traditional and neural network based
-  * utilities: Helpful utility scripts
-* Images
-  * Frames: Contains the original frames from the uber crash video
-  * Misc: As the name suggests, miscalaneous images related to the project
-* Research
+* **Code**
+  * **class_files:** Dictionary of class mappings
+  * **image_classification:** Implementation of various image classification neural networks
+  * **image_processing:** Implementation of various image enhancement techniques
+  * **object_recognition:** Implemenation of various Object Recognition techniques - traditional and neural network based
+  * **utilities:** Helpful utility scripts
+* **Images**
+  * **Frames:** Contains the original frames from the uber crash video
+  * **Misc:** As the name suggests, miscalaneous images related to the project
+* **Research**
   * Contains our research notes while learning various topics, background study, prior work study, etc
-* Videos  
-  * Originals: Contains the original videos on which we tested our methods against
-  * Processed Videos: Contains videos after applying various processing and enhancement techniques
-  * XYZ_results: Contains the processed images after either classification or object recognition has been performed
+* **Videos**  
+  * **Originals:** Contains the original videos on which we tested our methods against
+  * **Processed:** Contains videos after applying various processing and enhancement techniques
+  * **Results:** Contains the processed images after either classification or object recognition has been performed
 
 ## Image Processing/Enhancement
 
